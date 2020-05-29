@@ -1,0 +1,23 @@
+I was 2 300 530 blr and 2351
+dollars 12/9/2010.
+After shopping 15/09/10
+I was left with 1700 253blr and 2 000 $.
+After shopping 16/09/10
+I was left with 1 7 00 2 500 blr.
+232500 blr and 10blr.
+
+/// -----
+
+blr заменить на BYN,
+суммы в белорусских рублях делить на разряды пробелом
+между суммой и BYN обязательно пробел
+суммы в usd на разряды не делить
+вместо dollars знак $ без пробела
+даты преобразовать из dd/mm/yy -> dd.mm.yy
+
+I was 2 300 530 BYN and 2351$ 12.09.2010.
+After shopping 15.09.10
+I was left with 1 700 253 BYN and 2000$.
+After shopping 16.09.10
+I was left with 17 002 500 blr.
+232 500 BYN and 10 BYN.
